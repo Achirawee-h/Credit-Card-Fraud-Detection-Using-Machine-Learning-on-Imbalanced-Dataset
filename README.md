@@ -11,6 +11,6 @@ This dataset represents transactions that occurred over two days, including 492 
 ### Technologies
 - Python
 - Pandas
+- Matplotlib
 - Scikit-Learn
 - Xgboost
-- Matplotlib
